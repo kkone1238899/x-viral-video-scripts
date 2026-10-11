@@ -34,6 +34,10 @@
 | [@growaiskills：长视频剪短保真 prompt](https://x.com/growaiskills/status/2109117490534269388) | 2026-10-11 | AI 长视频剪短最易丢"关键条件"，正文教找回方法并附两段可改 prompt 模板 | 二创/课程切片账号用它保信息完整度防翻车，或打包成"AI 剪辑不翻车"付费教程 |
 | [@slblcx：开源 agentic 视频生产系统 OpenMontage](https://x.com/slblcx/status/2109124839269372144) | 2026-10-11 | 一句话需求自动编排剧本写作/画面/剪辑，兼容 Claude Code、Codex、Cursor、Copilot | 低成本批量生产短剧铺矩阵号，或基于项目做本地化部署与定制开发接单 |
 | [@Chel2336：AI 漫剧工业化 63 讲](https://x.com/Chel2336/status/2109141029660373276) | 2026-10-11 | 选本改编 23 讲（含网文改漫剧剧本 SOP、分镜拆分公式、爆款钩子设计）+美术资产/后期，共 63 讲 | 按 SOP 跑漫剧/短剧账号吃分账，或把选本改编方法论沉淀成付费课/咨询 |
+| [@ChrisSlacker：36 条涨粉 70 万账号制作拆解](https://x.com/ChrisSlacker/status/2109199405597532412) | 2026-10-11 | 把爆款账号的制作方法拆成 7 段可复制提示词（角色卡→拆对标→动作里程碑→材质→出片→改稿），另附 8 个 AI 短剧开源项目清单，解决多镜头角色/材质不一致难题，适合想做 AI 短剧/漫剧的创作者 | 照这套 7 段流程跑短剧样片起号吃充值分成，或接"短剧起号 SOP"代运营订单 |
+| [@BDFrankHoubre：AI 短片三幕式剧本指南](https://x.com/BDFrankHoubre/status/2109203896404959262) | 2026-10-11 | 英文长文讲 AI 短片三幕式剧本结构（四步拆解法+新手误区+先锁结构再生成），解决"画面好看但没故事"的痛点，适合 AI 短片新手；作者是 ScreenWeaver 开发者 | 用这套结构做短片样片接单，或沉淀成中文 AI 短片写作付费教程 |
+| [@meAsifAi：AI 电影制作蓝图 Master Prompt V3](https://x.com/meAsifAi/status/2109235626440786388) | 2026-10-11 | 任意故事→完整 AI 电影制作蓝图的成套提示词，14 个阶段（故事分析→角色设计→场景分解→逐镜分镜→影像提示词→对白配音→剪辑），完整 prompt 放评论区，适合想系统跟流程做 AI 短片的初学者 | 照流程跑样片做作品集，接"AI 短片代制"订单，或做本地化改写教程卖新手 |
+| [@zhongying14：让 AI 写代码做视频](https://x.com/zhongying14/status/2109265978206945405) | 2026-10-11 | 复盘用 AI 写代码做讲解视频的实战经验：两份可复制提示词（15 秒制作单、改稿检查项）+ 4 个开源项目（Remotion/MoneyPrinterTurbo/story-to-handdrawn-video/TextToTalk），适合做知识讲解类视频、想用程序化可编辑方式生产的创作者 | 接知识付费/企业培训视频外包——代码生成可改版，同一套模板换行业多次卖 |
 
 ## 收录标准
 
@@ -67,3 +71,4 @@
 - 2026-10-11：首版，3 个项目，持续收录中
 - 2026-10-11：首轮早档搜集：X 新增 6 条实战帖、GitHub 新增 2 个项目；全库 star 经 API 核验更新
 - 2026-10-11：午档搜集：X 新增 4 条实战帖、GitHub 新增 2 个项目（calesthio/OpenMontage、ShortVideo-AI/short-video-script-skill）；star 经 API 核验
+- 2026-10-11：晚档搜集：X 新增 4 条实战帖（@ChrisSlacker 36条涨粉70万制作拆解、@BDFrankHoubre 三幕式指南、@meAsifAi 电影制作蓝图 Prompt V3、@zhongying14 AI写代码做视频）；本类目首轮搜集完毕
