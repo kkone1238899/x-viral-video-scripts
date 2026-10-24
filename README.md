@@ -6,19 +6,23 @@
 > 
 > Each entry answers two questions: what problem it solves (and who it's for), and how to make money with it.
 > 
-> Star counts verified via GitHub API on 2026-10-11. Continuously updated.
+> Star counts verified via GitHub API on 2026-10-24. Continuously updated.
 
 ## 条目
 
 | 项目 | Star | 一句话（解决什么问题 / 适合谁用） | 怎么用它搞钱 |
 |---|---|---|---|
-| [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) | 4,312 | AI 短剧 skill：拆角色、排大纲、写剧本、切分镜 | 接单做短剧剧本 / 分镜代写 |
-| [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) | 2,673 | 短剧/漫剧 skill 合集：剧本、角色资产、分镜、提示词 | 短剧工作室剧本外包 |
-| [liangdabiao/Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) | 2,561 | 小说/故事转多集视频剧本 | 小说推文 / 短剧改编接单 |
-| [OYYH-Apple/video-storyboard-generator](https://github.com/OYYH-Apple/video-storyboard-generator) | 70 | 生成专业视频分镜脚本的 Claude Skill，多镜头序列设计+多格式导出 | 短剧/广告分镜代写接单 |
-| [chengbenchao/short-drama-script](https://github.com/chengbenchao/short-drama-script) | 32 | 小说/IP 自动改编标准短剧剧本：梗概/人设/分集大纲/逐集正文/卡点标注 | 爆款小说改竖屏短剧投红果/抖音分账 |
-| [ShortVideo-AI/short-video-script-skill](https://github.com/ShortVideo-AI/short-video-script-skill) | 26 | 短视频全案脚本 skill：选题分析、标题钩子、口播脚本、分镜建议、封面/发布文案/评论区引导 | 给知识博主或商家做"一主题→成片脚本"代做服务 |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 66,419 | 首个开源 agentic 视频生产系统：12 条生产管线、100+ 工具，一句话需求自动走完剧本写作/画面/剪辑 | 一人视频团队批量生产短剧铺矩阵号，或基于项目做本地化部署接单 |
+| [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) | 5,006 | AI 短剧 skill：拆角色、排大纲、写剧本、切分镜 | 接单做短剧剧本 / 分镜代写 |
+| [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) | 3,272 | 短剧/漫剧 skill 合集：剧本、角色资产、分镜、提示词 | 短剧工作室剧本外包 |
+| [liangdabiao/Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) | 2,661 | 小说/故事转多集视频剧本 | 小说推文 / 短剧改编接单 |
+| [OYYH-Apple/video-storyboard-generator](https://github.com/OYYH-Apple/video-storyboard-generator) | 73 | 生成专业视频分镜脚本的 Claude Skill，多镜头序列设计+多格式导出 | 短剧/广告分镜代写接单 |
+| [chengbenchao/short-drama-script](https://github.com/chengbenchao/short-drama-script) | 36 | 小说/IP 自动改编标准短剧剧本：梗概/人设/分集大纲/逐集正文/卡点标注 | 爆款小说改竖屏短剧投红果/抖音分账 |
+| [ShortVideo-AI/short-video-script-skill](https://github.com/ShortVideo-AI/short-video-script-skill) | 31 | 短视频全案脚本 skill：选题分析、标题钩子、口播脚本、分镜建议、封面/发布文案/评论区引导 | 给知识博主或商家做"一主题→成片脚本"代做服务 |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 71,191 | 首个开源 agentic 视频生产系统：12 条生产管线、100+ 工具，一句话需求自动走完剧本写作/画面/剪辑 | 一人视频团队批量生产短剧铺矩阵号，或基于项目做本地化部署接单 |
+| [drasstry/shortdrama-pipeline](https://github.com/drasstry/shortdrama-pipeline) | 120 | 后端优先的中文短剧自动化流水线：主题→Seed 2.0 中文剧本→Seedream 人物图→Seedance 2.0 分镜视频→ffmpeg 拼成片；剧本/人物两处人工审核门防烧额度，fake 模式无 Key 可跑全流程（暂无 LICENSE 声明） | 跑通一条后端链路做"AI 短剧代制"技术底座，或按审核门接单批量生产短剧 |
+| [oidahdsah0/llm-script-factory](https://github.com/oidahdsah0/llm-script-factory) | 49 | DTG 短剧理论+六阶段剧本工厂（MIT）：创意孵化→结构构建→分场→剧本→润色→剧本医生，一键生成 80-100 集竖屏短剧剧本；本地优先+多模型，docs/ 下理论文档可单独学习 | 用 DTG 理论+工具批量产剧本投稿短剧平台，或把"剧本工厂"包装成编剧辅助服务收费 |
+| [dseditor/AI-storyboard-generator](https://github.com/dseditor/AI-storyboard-generator) | 28 | React+Gemini 2.5 Flash+ComfyUI 的可视化分镜工具：6 种生成模式、批量出图/视频、ffmpeg 自动合并、项目导出；暂无 LICENSE，主分支 2025-11-22 后未更新（仓库 2026-10-21 有动态） | 给短剧团队做分镜预览工具，或本地部署接"分镜先行"制作单 |
+| [UnderleveledBuilder/awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) | 656 | 83 个短剧改编/剧本 Skill 开源清单（CC0）：自带"查找 Skill"让 AI 按需挑选；@yupi996 10-skill 盲测显示 5 个 Skill 在剧本质量上稳定赢过不装 Skill 的对照组 | 按盲测结论挑 top Skill 跑剧本代写服务，或照清单做 Skill 选型咨询 |
 
 ### X 实战帖 · 核心提炼
 
@@ -244,12 +248,148 @@
 
 **来源**：[@zhongying14](https://x.com/zhongying14/status/2109265978206945405)
 
+### @xitang_ai：可灵 4.0 短剧全流程实测教程
+
+**核心提炼**
+- 全流程链条：可灵 Skill 一键装进 Codex（npx skills add klingai-tech/skills）→ GPTS 口语化写剧本 → 三栏人物参考板 → 分镜批次提示词 → 生成返修 → "vibe cutting" 剪辑
+- 剧本环节的人工干预点：女主不能总等人救、要自己反驳；证据画面必须拍到拿印章/盖章/刷卡等关键动作
+- 资产准备：白底三栏人物参考板（脸部大特写+遮脸全身+背面全身），明确告诉模型黑块只是参考处理、成片脸要完整；场景固定死再让人物进去试构图
+- 分镜提示词模板：每批写清参考图用途、开场站位、人物具体表演（手指收紧、短吸一口气、抬眼）、对白、景别运镜、结尾停顿点；打戏单独调打斗 Skill，按来招/应对/接触/结果写
+- 生成设置：1080P 16:9 保留对白和现场音效，不让模型生成字幕和 BGM；脸只参考大特写，全身只参考服装身材；返修靠对话说具体问题
+- 剪辑 "vibe cutting"：同一段对话里指挥 Codex 删段/加速/补声音/补监控包装/换乱码文字，结尾落反转重音，音乐点缀不铺满
+- 成本账：可灵 4.0 1080P 实扣约 135 灵感值≈首月 7.86 元；Seedance 2.5 官方 API 1080P 约 37.42 元；1 分钟短剧约 94 元（首月口径）
+- 五组实测结论：可灵 4.0 在 3D 场景和写实质感上被认可，武士打斗动作逻辑、人物表演仍需剪辑和打磨
+
+**适用场景**：想用可灵 4.0 跑短剧全流程的人，一条帖子拿到安装→剧本→分镜→剪辑的完整链条。
+
+**怎么用它搞钱**：照这套链条跑样片，接"可灵短剧代制"单；成本账本身就是报价依据。
+
+**来源**：[@xitang_ai](https://x.com/xitang_ai/status/2112514646196244880)
+
+### @yupi996：83 个短剧 Skill 清单 + 10 Skill 剧本盲测
+
+**核心提炼**
+- 开源清单 awesome-short-drama-skills 收录 83 个改编/剧本类 Skill（CC0，经 API 核验 656★、2026-10-23 仍在更新）
+- 盲测设计：Claude Code + Opus 4.5，同一道 60 集竖屏短剧题（第一集+大纲+延续），10 个 Skill 各跑 3 次 + 不装 Skill 对照组各跑 3 次，AI 盲评两两对决排位
+- 5 个胜出 Skill：zenstory-ai/drama-skills（对白与节奏、角色完整）、shenyi-master（对白精练、开场反转）、lydv88/screenwriting-skills（结构严谨）、Hao0212/ai-short-drama（对白有人味、输出稳定）、mnma-screenwriting-skills（对白生活化、配角出彩，适合竖屏爽剧）
+- 结论：Skill 不是越多越好，差距在选型；@vintcessun 补充：部分 Skill 输给对照组，换评审会改变结论，单模型测试不等于通用排名
+- 用法：npx skills add UnderleveledBuilder/awesome-short-drama-skills，仓库自带"查找 Skill"让 AI 按需挑
+
+**适用场景**：面对一堆短剧 Skill 不知道装哪个的人，直接抄盲测胜出的 5 个。
+
+**怎么用它搞钱**：用胜出 Skill 跑剧本代写服务，"盲测验证过"是接单话术；或做 Skill 选型咨询。
+
+**来源**：[@yupi996](https://x.com/yupi996/status/2112416270142652848)（@vintcessun 补充：https://x.com/vintcessun/status/2112805343374069993）
+
+### @mixailab：10 个短剧 Skills 按环节盘点
+
+**核心提炼**
+- 按生产环节分类的 10 个 Skill：编剧（Screenwriting Skills 1.7K★，先把故事写清楚）→ 视觉规划（Visual Skills 538★，走位/镜头/节奏）→ 角色资产（shuohao-skills 4.9K★，统一人物场景）→ 漫剧拆解（manju-laoli-skill 1.5K★，文戏打戏资产整理）→ 分镜资源（Awesome Seedance 2.2K★、Seedance 2.0 7.8K★）→ 平台串联（Scenario 1.1K★、Pexo 810★）→ 剪辑（Jianying Editor 4.3K★）→ 全链路（Drama Skills 3.1K★）
+- 核心观点：先把故事写清楚再进分镜和制作，环节顺序即 Skill 安装顺序
+
+**适用场景**：想一站式配齐短剧生产 Skill 工具箱的人，按环节照单安装。
+
+**怎么用它搞钱**：按这套工具箱搭"短剧生产工作站"，接代制单时每个环节都有对应 Skill 背书。
+
+**来源**：[@mixailab](https://x.com/mixailab/status/2112486247260414414)
+
+### @XunDavid80270：可灵官方 Skill 七步法 + 算力账
+
+**核心提炼**
+- 可灵官方 Skill 一行命令装进 Codex/Claude Code，拆成 7 步：安装命令、三栏角色参考板、单批镜头模板等，命令和提示词可直接抄（见原帖评论区）
+- 算力账：1 分钟短剧约 94 元（可灵 4.0 首月口径）；10 秒 1080P 镜头实扣 135 灵感值约 7.86 元
+
+**适用场景**：要快速上手可灵短剧、且关心成本的人，七步照抄 + 算力账做预算。
+
+**怎么用它搞钱**：算力账直接拿去做"AI 短剧代制"报价单的成本行。
+
+**来源**：[@XunDavid80270](https://x.com/XunDavid80270/status/2112696828030308472)
+
+### @Manorgw：shuohao-skills 小说改短剧三步
+
+**核心提炼**
+- 把小说改短剧做成 AI Skill，Claude Code/Codex 都能跑，不用额外 API Key
+- 三步自动整理：①角色与故事大纲 ②场景、道具设定 ③剧本和分镜
+
+**适用场景**：手里有小说/IP、想快速转成短剧剧本和分镜的人。
+
+**怎么用它搞钱**：接"小说改短剧"代改单，三步流程即交付标准。
+
+**来源**：[@Manorgw](https://x.com/Manorgw/status/2113553262398119949)
+
+### @AIGCxxx：AI 短剧五步工业化 SOP
+
+**核心提炼**
+- 分镜转译：不给模型文学形容词，先拆成景别/焦段/180 度动作轴线/动势矢量表，把三维空间标尺焊死
+- 资产锁死：三视图 + 全剧统一 Color Script，解决上百镜头的换脸与服装穿帮
+- 分工生成：复杂场面先用图像模型定透视阴影做"首尾关键帧"，再按模型特长分流（写实物理碰撞与微表情文戏分开生成）
+- 剪辑动势接力（默奇法则）：前一镜尾帧运动方向速度必须和后一镜首帧咬合，回剪辑台硬切，不让 AI 内部溶解切景别
+- 重工业后期：达芬奇统一 LUT + 35mm 胶片颗粒；核心是声音设计（雨滴/布料摩擦/J-Cut 呼吸声先行），声音扎实能瞬间拉回真实感
+
+**适用场景**：短剧做到一定量、开始被穿帮和不一致折磨的团队，工业化升级路线图。
+
+**怎么用它搞钱**：按 SOP 跑品质碾压的账号吃分账，或把 SOP 做成短剧团队内训课。
+
+**来源**：[@AIGCxxx](https://x.com/AIGCxxx/status/2111692594514125230)
+
+### @AIGCxxx：打戏组合镜头中文提示词工程
+
+**核心提炼**
+- 先焊死 180 度空间轴线：视频模型是"二维像素时间序列预测"，没有三维空间坐标系；首帧合图（两人合成同一张 16:9 画布锁站位/视线/阴影）可让空间崩溃率降 80%
+- 三段式组合蒙太奇：建空间（中全景锁轴线）→ 看拆招（越肩/低角度中近景交代动势）→ 给痛感（微距大特写凝结碰撞）
+- 六大组合分镜模板：战前对峙（35mm 广角侧面平行中全景）/ 极速突进（24mm 超广角贴地跟拍）/ 兵刃硬撼（85mm 大特写变速升格）/ 重击命中（50mm 越肩近景）/ 受击滑行（100mm 长焦压缩）/ 甩镜遮挡转场（35mm Whip Pan）
+- 剪辑秘籍：死守"动势中段切戏"；手动抽帧 + 3 帧顿帧做打击感；三层拟音（高频金属/中频肉体/低频 50–80Hz）
+- 结论：单镜头生成能力在贬值，跨镜头的空间调度 + 分镜组合 + 剪辑节奏才是护城河
+
+**适用场景**：做武侠/动作短剧、被打戏穿帮和"假打感"困扰的创作者。
+
+**怎么用它搞钱**：打戏是短剧差异化卖点，这套模板可做"动作短剧代制"溢价项。
+
+**来源**：[@AIGCxxx](https://x.com/AIGCxxx/status/2113609065305948342)
+
+### @AIGCxxx：导演级高速武打分镜引擎 prompt
+
+**核心提炼**
+- 一个可直接复用的角色设定型 prompt：把 AI 设定为"导演级高速武打分镜引擎"，输入人物/武器/场景/战斗风格/时长，输出可直接用于视频模型的连续动作分镜
+- 设计要点：不写"打斗激烈"这类形容词，而设计清晰动作链——位移→攻击→闪避→反击→碰撞→换位→环境反馈→下一镜继承
+
+**适用场景**：需要快速出打戏分镜、又不想每次从头写提示词的人。
+
+**怎么用它搞钱**：把这套引擎 prompt 封装进打戏代制服务，按场次收费。
+
+**来源**：[@AIGCxxx](https://x.com/AIGCxxx/status/2113615312348483888)
+
+### @ReignSwords：分镜 skill 实测省 token 法
+
+**核心提炼**
+- 一句话出片类 skill 的最大价值是倒逼提示词结构化，但一遍过概率不高
+- 实测方法：先让 AI 只出分镜脚本 + 每段时长，确认节奏无误后再渲染，能省不少 token
+
+**适用场景**：用一句话出片 skill 总烧额度的人，先分镜后渲染的纪律。
+
+**怎么用它搞钱**：省下的 token 就是利润；这套方法可写进代制 SOP 降本。
+
+**来源**：[@ReignSwords](https://x.com/ReignSwords/status/2113606908422803879)（回复 @long_jingai 的评论）
+
+### @TammyBuilds：风格词库转分镜 JSON 法
+
+**核心提炼**
+- 风格词库的真正价值不是让 Claude 写脚本，而是给分镜转结构化 JSON
+- 光给描述词只会出一堆废话分镜；实战是提取镜头语言/色调/运镜参数，固定成统一 System Prompt 塞进工作流
+- 批量输出给 Midjourney/Runway 调用，能省掉约 80% 微调成本
+
+**适用场景**：风格词库用不起来、每次都要反复微调的人。
+
+**怎么用它搞钱**：把"词库→JSON→批量出片"做成标准化管线，接风格化短剧批量单。
+
+**来源**：[@TammyBuilds](https://x.com/TammyBuilds/status/2113566804002095423)（回复 @cnyzgkc、@lemomo_ai 的评论）
+
 ## 收录标准
 
 - 来源：X 博主实战分享（原帖 / 评论区 / 引用链）及 GitHub 高星项目
 - GitHub 项目条目格式：一句话（解决什么问题 / 适合谁用）+ 一条「怎么用它搞钱」
 - X 实战帖条目格式：核心提炼（3-8 条要点，不点链接也能拿走干货）+ 适用场景一句话 + 一条「怎么用它搞钱」+ 原帖链接只做署名出处
-- Star 数为 2026-10-10 经 GitHub API 核验；持续收录中
+- Star 数为 2026-10-24 经 GitHub API 核验；持续收录中
 - 去重：同一项目只收录一次，不堆 raw 链接
 
 ## 相关分类
@@ -279,3 +419,4 @@
 - 2026-10-11：午档搜集：X 新增 4 条实战帖、GitHub 新增 2 个项目（calesthio/OpenMontage、ShortVideo-AI/short-video-script-skill）；star 经 API 核验
 - 2026-10-11：晚档搜集：X 新增 4 条实战帖（@ChrisSlacker 36条涨粉70万制作拆解、@BDFrankHoubre 三幕式指南、@meAsifAi 电影制作蓝图 Prompt V3、@zhongying14 AI写代码做视频）；本类目首轮搜集完毕
 - 2026-10-12：X 实战帖整改（kk 指令）：14 条 X 条目全部按"提炼入库"标准重写为核心提炼小节（要点+适用场景+搞钱+出处），不再是标题+链接
+- 2026-10-24：早档搜集：X 新增 10 组实战帖（@xitang_ai 可灵 4.0 全流程/@yupi996 83-skill 清单盲测/@mixailab 10-skill 按环节盘点/@XunDavid80270 可灵七步算力账/@Manorgw shuohao 小说改短剧三步/@AIGCxxx 五步工业化 SOP/打戏提示词工程/武打分镜引擎/@ReignSwords 分镜省 token/@TammyBuilds 风格词库转 JSON）、GitHub 新增 4 个项目（drasstry/shortdrama-pipeline、oidahdsah0/llm-script-factory、dseditor/AI-storyboard-generator、UnderleveledBuilder/awesome-short-drama-skills）；全库 star 经 API 核验更新
