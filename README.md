@@ -6,25 +6,33 @@
 > 
 > Each entry answers two questions: what problem it solves (and who it's for), and how to make money with it.
 > 
-> Star counts verified via GitHub API on 2026-11-06. Continuously updated.
+> Star counts verified via GitHub API on 2026-11-19. Continuously updated.
 
 ## 条目
 
 | 项目 | Star | 一句话（解决什么问题 / 适合谁用） | 怎么用它搞钱 |
 |---|---|---|---|
-| [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) | 6,080 | AI 短剧 skill：拆角色、排大纲、写剧本、切分镜 | 接单做短剧剧本 / 分镜代写 |
-| [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) | 3,825 | 短剧/漫剧 skill 合集：剧本、角色资产、分镜、提示词 | 短剧工作室剧本外包 |
-| [liangdabiao/Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) | 2,773 | 小说/故事转多集视频剧本 | 小说推文 / 短剧改编接单 |
-| [OYYH-Apple/video-storyboard-generator](https://github.com/OYYH-Apple/video-storyboard-generator) | 75 | 生成专业视频分镜脚本的 Claude Skill，多镜头序列设计+多格式导出 | 短剧/广告分镜代写接单 |
-| [chengbenchao/short-drama-script](https://github.com/chengbenchao/short-drama-script) | 38 | 小说/IP 自动改编标准短剧剧本：梗概/人设/分集大纲/逐集正文/卡点标注 | 爆款小说改竖屏短剧投红果/抖音分账 |
-| [ShortVideo-AI/short-video-script-skill](https://github.com/ShortVideo-AI/short-video-script-skill) | 41 | 短视频全案脚本 skill：选题分析、标题钩子、口播脚本、分镜建议、封面/发布文案/评论区引导 | 给知识博主或商家做"一主题→成片脚本"代做服务 |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 77,160 | 首个开源 agentic 视频生产系统：12 条生产管线、100+ 工具，一句话需求自动走完剧本写作/画面/剪辑 | 一人视频团队批量生产短剧铺矩阵号，或基于项目做本地化部署接单 |
-| [drasstry/shortdrama-pipeline](https://github.com/drasstry/shortdrama-pipeline) | 120 | 后端优先的中文短剧自动化流水线：主题→Seed 2.0 中文剧本→Seedream 人物图→Seedance 2.0 分镜视频→ffmpeg 拼成片；剧本/人物两处人工审核门防烧额度，fake 模式无 Key 可跑全流程（暂无 LICENSE 声明） | 跑通一条后端链路做"AI 短剧代制"技术底座，或按审核门接单批量生产短剧 |
-| [oidahdsah0/llm-script-factory](https://github.com/oidahdsah0/llm-script-factory) | 50 | DTG 短剧理论+六阶段剧本工厂（MIT）：创意孵化→结构构建→分场→剧本→润色→剧本医生，一键生成 80-100 集竖屏短剧剧本；本地优先+多模型，docs/ 下理论文档可单独学习 | 用 DTG 理论+工具批量产剧本投稿短剧平台，或把"剧本工厂"包装成编剧辅助服务收费 |
-| [dseditor/AI-storyboard-generator](https://github.com/dseditor/AI-storyboard-generator) | 28 | React+Gemini 2.5 Flash+ComfyUI 的可视化分镜工具：6 种生成模式、批量出图/视频、ffmpeg 自动合并、项目导出；暂无 LICENSE，主分支 2025-11-22 后未更新（仓库 2026-10-21 有动态） | 给短剧团队做分镜预览工具，或本地部署接"分镜先行"制作单 |
-| [UnderleveledBuilder/awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) | 1,852 | 83 个短剧改编/剧本 Skill 开源清单（CC0）：自带"查找 Skill"让 AI 按需挑选；@yupi996 10-skill 盲测显示 5 个 Skill 在剧本质量上稳定赢过不装 Skill 的对照组 | 按盲测结论挑 top Skill 跑剧本代写服务，或照清单做 Skill 选型咨询 |
-| [aronhy/marketing-skill-hub](https://github.com/aronhy/marketing-skill-hub) | 170 | 中英双语出海营销 Agent Skills（Claude/Codex/Cursor），其 ugc-video 模块把产品卖点收成前 3 秒冲突钩子 + 可拍脚本，支持逐帧拆参考片与达人合作话术；技能文档 CC BY-NC 4.0（禁商用转售），辅助脚本 MIT | 用 ugc-video 模块给跨境卖家批量出 15–30 秒可拍脚本，按条收费做内容代运营 |
-| [howznguyen/shorts-kit](https://github.com/howznguyen/shorts-kit) | 94 | 编程 Agent + Remotion 做带旁白竖屏短视频：查事实、故事线、脚本、配音、分镜、静帧检查、渲染、封面、文案一条龙，最后自己上传，工具从不代发；MIT，2026-11-05 推送 | 用它批量产知识类竖屏短视频铺矩阵号，或按"一句话选题→成片"接短视频代做单 |
+| [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) | 6,817 | AI 短剧 skill：拆角色、排大纲、写剧本、切分镜 | 接单做短剧剧本 / 分镜代写 |
+| [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) | 4,468 | 短剧/漫剧 skill 合集：剧本、角色资产、分镜、提示词 | 短剧工作室剧本外包 |
+| [liangdabiao/Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) | 2,915 | 小说/故事转多集视频剧本 | 小说推文 / 短剧改编接单 |
+| [OYYH-Apple/video-storyboard-generator](https://github.com/OYYH-Apple/video-storyboard-generator) | 76 | 生成专业视频分镜脚本的 Claude Skill，多镜头序列设计+多格式导出 | 短剧/广告分镜代写接单 |
+| [chengbenchao/short-drama-script](https://github.com/chengbenchao/short-drama-script) | 44 | 小说/IP 自动改编标准短剧剧本：梗概/人设/分集大纲/逐集正文/卡点标注 | 爆款小说改竖屏短剧投红果/抖音分账 |
+| [ShortVideo-AI/short-video-script-skill](https://github.com/ShortVideo-AI/short-video-script-skill) | 48 | 短视频全案脚本 skill：选题分析、标题钩子、口播脚本、分镜建议、封面/发布文案/评论区引导 | 给知识博主或商家做"一主题→成片脚本"代做服务 |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 81,572 | 首个开源 agentic 视频生产系统：12 条生产管线、100+ 工具，一句话需求自动走完剧本写作/画面/剪辑 | 一人视频团队批量生产短剧铺矩阵号，或基于项目做本地化部署接单 |
+| [drasstry/shortdrama-pipeline](https://github.com/drasstry/shortdrama-pipeline) | 121 | 后端优先的中文短剧自动化流水线：主题→Seed 2.0 中文剧本→Seedream 人物图→Seedance 2.0 分镜视频→ffmpeg 拼成片；剧本/人物两处人工审核门防烧额度，fake 模式无 Key 可跑全流程（暂无 LICENSE 声明） | 跑通一条后端链路做"AI 短剧代制"技术底座，或按审核门接单批量生产短剧 |
+| [oidahdsah0/llm-script-factory](https://github.com/oidahdsah0/llm-script-factory) | 49 | DTG 短剧理论+六阶段剧本工厂（MIT）：创意孵化→结构构建→分场→剧本→润色→剧本医生，一键生成 80-100 集竖屏短剧剧本；本地优先+多模型，docs/ 下理论文档可单独学习 | 用 DTG 理论+工具批量产剧本投稿短剧平台，或把"剧本工厂"包装成编剧辅助服务收费 |
+| [dseditor/AI-storyboard-generator](https://github.com/dseditor/AI-storyboard-generator) | 29 | React+Gemini 2.5 Flash+ComfyUI 的可视化分镜工具：6 种生成模式、批量出图/视频、ffmpeg 自动合并、项目导出；暂无 LICENSE，主分支 2025-11-22 后未更新（仓库 2026-10-21 有动态） | 给短剧团队做分镜预览工具，或本地部署接"分镜先行"制作单 |
+| [UnderleveledBuilder/awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) | 2,561 | 83 个短剧改编/剧本 Skill 开源清单（CC0）：自带"查找 Skill"让 AI 按需挑选；@yupi996 10-skill 盲测显示 5 个 Skill 在剧本质量上稳定赢过不装 Skill 的对照组 | 按盲测结论挑 top Skill 跑剧本代写服务，或照清单做 Skill 选型咨询 |
+| [aronhy/marketing-skill-hub](https://github.com/aronhy/marketing-skill-hub) | 243 | 中英双语出海营销 Agent Skills（Claude/Codex/Cursor），其 ugc-video 模块把产品卖点收成前 3 秒冲突钩子 + 可拍脚本，支持逐帧拆参考片与达人合作话术；技能文档 CC BY-NC 4.0（禁商用转售），辅助脚本 MIT | 用 ugc-video 模块给跨境卖家批量出 15–30 秒可拍脚本，按条收费做内容代运营 |
+| [howznguyen/shorts-kit](https://github.com/howznguyen/shorts-kit) | 194 | 编程 Agent + Remotion 做带旁白竖屏短视频：查事实、故事线、脚本、配音、分镜、静帧检查、渲染、封面、文案一条龙，最后自己上传，工具从不代发；MIT，2026-11-05 推送 | 用它批量产知识类竖屏短视频铺矩阵号，或按"一句话选题→成片"接短视频代做单 |
+| [liangdabiao/seedance-storyboard-generator-realman](https://github.com/liangdabiao/seedance-storyboard-generator-realman) | 182 | 真人实拍质感 AI 短剧分镜 Skill：真人感六根支柱（摄影介质/皮肤材质/空间锚定/物理因果/呼吸微表情/同期声口型）写 Seedance 提示词，故事→剧本→分镜→成片，文→资→视→剪；暂无 LICENSE 声明 | 接真人感短剧分镜代制单，或用六根支柱做"去塑料感"质检服务 |
+| [xixihhhh/ai-short-drama-skill](https://github.com/xixihhhh/ai-short-drama-skill) | 105 | Dramake：文字转 AI 短剧 Skill，剧本/分镜/Wan 3/Seedance/MiniMax H3/配音/剪辑/质检一条链，Codex/Claude Code/WorkBuddy 可用，v0.6.0，25 测试通过（MIT） | 用一条链"文字→成片"接短剧代制单，按集收费 |
+| [YvonneMovingon/short-drama-skills](https://github.com/YvonneMovingon/short-drama-skills) | 105 | LuxReal 工业化生产验证的 7 个短剧 Skill：剧本→结构化分镜序列/时长估算/镜头语言，覆盖对白/反应/情绪节拍/动作场面/转场（MIT） | 用生产验证过的拆解规则接短剧分镜代写单，或当分镜质检标准 |
+| [muxia0396/novel-to-ai-short-drama-skill](https://github.com/muxia0396/novel-to-ai-short-drama-skill) | 35 | 小说改编导演视角 skill：分场节拍+逐镜时间码闭合+表演调度+连续性锚点+质量门，输出导演分镜台本（MIT） | 接小说改短剧代改单，按"时长账本+连续性校验"报价 |
+| [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) | 933 | 21 套题材漫剧全流程模板（玄幻/穿越/宫斗/都市/悬疑/总裁甜宠等）：一句创意→企划/人物/分集剧本/分镜提示词/视频提示词/发布文案，默认 30 集×4 分钟竖屏；零依赖，可直接粘贴进 DeepSeek（MIT，经 @Huahuazo 11-19 06:15 帖引入） | 按题材模板批量出漫剧分集剧本接单，或做漫剧代制 |
+| [LuoJiangYong/muse-video-skill](https://github.com/LuoJiangYong/muse-video-skill) | 107 | Muse 视频创作虚拟剧组引擎：选题→剧本/分镜/美术/提示词全套，导演/编剧/摄影/美术/特效/声音 6 角色协作+38 案例技法库，8+1 阶段管线+模型编译直连 Seedance 2.0（MIT，经 @Jack1472004 11-19 08:56 帖引入；README 注明开发中） | 用虚拟剧组流程接视频策划单，或把"策划案+模型调用指令"当可交付成果收费 |
+| [masonmosen/muse-video-prompt-skill](https://github.com/masonmosen/muse-video-prompt-skill) | 57 | Muse 内置视频提示词实战 skill：六段式模板→生成→多段拼接→抽帧验证人物连续性，附杭州国庆游/麻将正反案例（MIT，经 @Jack1472004 11-19 08:56 帖引入；README 注明 Muse 内置视频生成截至 11-05 仍因地区被禁 403） | 用六段式模板+抽帧验证接 Muse 视频提示词代写单 |
+| [apimodels/muse-video-prompts](https://github.com/apimodels/muse-video-prompts) | 90 | 204 条 Muse 视频提示词合集（2026-09-17 至 11-04，68 位创作者发在 X 上）：每条注明创作者+原帖链接，可搜可复制（CC-BY-4.0，经 @Jack1472004 11-19 08:56 帖引入） | 按合集找灵感/抄结构批量出 Muse 视频，或做提示词选型参考 |
 
 ### X 实战帖 · 核心提炼
 
@@ -1071,12 +1079,163 @@
 
 **来源**：[@HeyBlessingek](https://x.com/HeyBlessingek/status/2118691231114948813)
 
+### @AI_DVD6：一条中文母指令出整条短片
+
+**核心提炼**
+- 一条中文"母指令"让 AI 包办编剧和导演，流程共 8 步：①定好一个故事（一句话，明确主角、冲突、反转）→②给"母指令"，让 AI 出完整的分镜剧本（含镜头、画面、旁白）→③按分镜剧本出关键帧→④关键帧"图生视频"，每个镜头单独生成→⑤生成旁白和音效→⑥剪辑拼起来→⑦最后加字幕→⑧完成发布
+- "最关键的一招"：生成视频时，别每次都生成第一帧，保存上一镜的最后一帧、垫到下一镜前面，动作才不乱跳
+- 故事选题：脑筋急转弯式短故事——一句话就能讲完、最后一句反转，配"这个小问题，90%的人第一次都想错"这类钩子；示例：山脚下住着卖伞的哥哥和卖鞋的弟弟，哥哥盼下雨、弟弟盼晴天，最后哥哥的伞卖给了弟弟、弟弟的鞋卖给了哥哥
+- 画面风格：简笔画火柴人，白色背景、黑色线条
+- 如实说明：母指令原文在配图"可以抄的作业"中，页面文本未直接给出，本条只转述其功能与流程，未逐字复录；Article 全文为浏览器读取
+
+**适用场景**：想一条指令跑通"故事→分镜→成片"、做脑筋急转弯/反转类动画短片的人。
+
+**怎么用它搞钱**：批量做反转短故事动画号吃流量分成，或把"母指令+8 步"做成零基础出片陪跑卖新手。
+
+**来源**：[@AI_DVD6](https://x.com/AI_DVD6/status/2120881401276817426)
+
+### @0xcwy：33 个开源 Skill 把剧本到成片整条链路拆好了
+
+**核心提炼**
+- 链路顺序：先评估 IP、拆故事，再写剧本和审稿，然后做分镜、视觉资产和视频提示词，最后出片剪辑；按环节对照自己缺哪一块
+- 上游选故事：screen-creative-skills 评估小说/IP，拆情节点、写人物小传、理人物关系，整理成大纲，再辅助改成短剧或长剧；narrative-to-screen-reader 像影视公司开发部，把故事整理成整套开发材料（快速诊断、编剧改编读本、导演视听读本、演员读本、制片摘要）；analyze-hit-novel 专门拆爆款小说或漫改，拆成可验证的叙事结构，给改编当参考
+- 编剧商业化：short-drama 从选题立项开始，搭故事骨架，设计四层反派人物，写分集目录，再到逐集剧本，钩子、付费卡点都考虑进去，还有五维评分自检和合规审核，能切换成出海英文剧本格式；short-drama-factory 能把一句创意或一部网文改成 60 到 100 集的短剧剧本，钩子、付费卡点、断章、反转都会设计，还会按规则自动检查；write-screenplay-skill 把小说或设定改成商业剧本，国内短剧和出海微短剧两种写法都支持；5min-drama-contest 适合参赛或做五分钟短剧，先通过提问帮你定赛道、立意、结构和前 30 秒开场，再依次给出四幕卡点大纲、正式剧本和分镜脚本
+- 方法论类：qianqianwriting 用"救猫咪"方法加 31 部爆款短剧案例辅助写大纲和剧本；gushi-skill 走罗伯特·麦基《故事》那一套；emma-screenwriting-skills 覆盖拆结构、改编、迭代选题、设计观众期待和逐集钩子，也能扩写集纲、诊断对白、删减剧本
+- 审稿类：screenwriter-skill 用 38 条规则审短剧和漫剧剧本，找写作问题；screenplay-review-checklist 用 37 条判据审剧本，定位故事哪里出了毛病；写完先过一遍审稿工具，比直接拿去生成视频再返工省钱
+- 编剧基本功：screenwriting-skills 讲故事结构、场景、对白和剧集设定，还涉及编剧室协作，附多国影视和中国戏曲案例；shanyin-screenwriting-master 能给概念超短片、叙事短片、长片和多集剧集设计人物、大纲和场景，生成完整剧本；claude-screenwriting 把 Vogler、麦基和"救猫咪"整理成故事知识库，支持 15 节拍规划、三层角色卡和结构诊断；kunka-screenwriting-master 面向中文编剧，辅助构思、改稿、查剧情连贯性、开发剧集；write-chinese-long-screenplay 用本地状态工具管理中文小说和剧本创作进度
+- 分镜和视频提示词：Seedance2-Storyboard-Generator 把小说或故事改成多集视频剧本和分镜，再生成视频提示词（库内已有）；seedance2-skill 专门生成视频提示词；make-prompt-seedance2 提供结构化提示词写法，还有可复用的提示词 Skill；seedance-2-5-video-director 辅助写提示词和脚本，能诊断问题、锁定人物、续写、编辑、设计转场；awesome-seedance 是资料库，有 800 多条能追溯到原帖的提示词案例，加上近 500 次跨模型复测结果；不用 Seedance 可看 higgsfield-ai-prompt-skill，用 MCSLA 公式组织视频提示词，支持多参考素材、表演指导、角色一致性、镜头清单和失败诊断；zy-cinematic-realism 把剧本、故事或场景构想拆成推动故事的画面关键帧，生成静帧提示词，能做连续组图，也能修复画面；shanyin-director-master 偏导演视角，根据剧本定导演风格和节奏，微调剧本、拆分镜，最后输出九列分镜表，内置类型片导演风格模板
+- 全流程工具：shuohao-skills 负责拆角色、改编小说大纲、做场景和道具设定，出剧本和分镜；drama-skills 覆盖短剧和漫剧全流程，从拆小说、项目开发、写剧本，到做角色资产、分镜、图像和视频提示词，还带审查（以上两仓库内已有）；manju-laoli-skill 定位漫剧导演助手，剧本审核、资产锁定、分镜、生成提示词、质量检查都包了；OnlyShot 给它一句话创意，依次做出剧本、分镜、分镜图和视频，再剪辑，整理了 17 种常见失败模式；Micro-Drama-Skills 自动完成剧本、角色设计、分镜、图像和视频生成，最后还帮你提交成品；short-drama-production 从小说大纲、人物、剧本，到导演分镜、提示词、声音素材、粗剪和质检；workrally 给 AI Agent 用，覆盖剧本、分镜、提示词和出片；infinite-creation 提交小说或剧本后自动连续出片
+- 挑法：只想快速出一条片试水，用 OnlyShot 或 Micro-Drama-Skills 这类全流程工具；手里有好故事但剧本写不顺，重点看 short-drama、short-drama-factory，再配一个审稿工具；剧本没问题、画面总崩、角色总不一致，去分镜和提示词那一段找，awesome-seedance 的复测数据和 higgsfield 的失败诊断都用得上
+- 纠正说明：浏览器报告 5 处有误已按 fxtwitter API 原文纠正（"UnifyShot"实为 OnlyShot；"视点短片"实为概念超短片；"三角色卡"实为三层角色卡；"screenplay-skill"实为 write-screenplay-skill；Micro-Drama-Skills 是"帮你提交成品"非"提效成品"）
+- 如实说明：配图后 3 张清单未逐一抄录，本条以正文提到的 Skill 名为准；清单内多数 Skill 未逐个核验 star，本条只取选型方法，不作逐仓推荐
+
+**适用场景**：面对一堆短剧 Skill 不知道缺哪块、从哪块下手的人，按环节对照补齐。
+
+**怎么用它搞钱**：按链路搭"剧本→成片"代制服务，每个环节都有对应 Skill 背书；或做 Skill 选型咨询，按缺口收费。
+
+**来源**：[@0xcwy](https://x.com/0xcwy/status/2121950122028548281)
+
+### @leixing0309：一张 4090，十天，二十多条 AI 短片——AI 当导演
+
+**核心提炼**
+- 链路是"故事 → 分镜 → 每个镜头的运镜方案 → 提示词 → 交给执行的 AI 去出片 → 我审片"，每一层都由 AI 完成，每一层的输出都是下一层的输入；最后交给显卡的不是一句"一个女孩在雨夜等公交"，而是一份完整导演包：故事圣经、分镜卡、运镜方案、提示词、角色和场景的参考图清单、任务单；一条 4 分钟 MTV 通常是三十多个镜头，每个镜头一份提示词
+- 作者本人不写提示词，写剧本；角色是制片人：定方向，看片，说哪里不行
+- 道具要"前面埋下、后面收回"——《末班车》：开末班车的老陈每晚在城中村站台多等一分钟，等一个下夜班的陌生女孩，真正放不下的是远在北方一座城里、也一个人下夜班的女儿；司机台上贴着女儿七岁时画的蜡笔画（大月亮+小公交车），第 8 个镜头只是虚焦一角，第 15 个镜头给大特写，最后一镜月光落在这张画上
+- 用同一个机位讲时间——《富士山下》：分手多年后他重走当年湖边路，现在阴天、山被云遮，过去晴天、山清清楚楚；过去和现在用完全相同的机位拍同一张长椅，过去长椅坐两个人，现在长椅是空的；最后他把她留下的白石子扔进湖里，云散开，山第一次完整露出来
+- 光影也是写出来的——《凤凰花开的路口》：十八岁分别的傍晚许航举胶片相机拍好友阿屿走下坡道的背影，十二年后同一钟点在凤凰树下把底片举起对着夕阳，底片里的小背影就是十二年前那一刻；整支片子每条提示词都写同一句光的规矩：光只能是逆光或侧逆光、带可见轮廓光，绝不用平光，薄雾要能兜住阳光；学校在坡顶、港口在坡底朝西，傍晚太阳永远在坡底方向，十二年前分别在傍晚、十二年后回来也是傍晚，同一钟点、同一方向的光
+- 角色不变脸：每个项目开拍前先给每个角色出一张"定妆照"，给每个场景出一张"空场景图"，然后每个镜头都带着这些参考图去生成；《倾城》女主角从夜市到渡轮、从拥抱到流泪，九个镜头同一张脸
+- 复刻只换女主：猫、院子、道具都不变，只把女主角换成另一个人，34 个镜头全部重新生成，声音用原片原声；复刻版尚未超过原片，最大差距在光影层次
+- 结论："AI 视频拼到最后，拼的不是模型，是故事和导演思维"；"先有故事、再拆分镜、再定运镜、最后才写提示词"这条链路、以及每一层怎么写，是磨出来的
+- 如实说明：Article 全文为浏览器读取，提示词原文按浏览器抄录，未经 fxtwitter API 二次核验
+
+**适用场景**：想从"一句提示词出片"升级到"导演包出片"、做 3–4 分钟多镜叙事短片的人。
+
+**怎么用它搞钱**：按导演包流程接多镜叙事短片代制单；或把"故事圣经+分镜卡+运镜方案"做成可交付的策划服务收费。
+
+**来源**：[@leixing0309](https://x.com/leixing0309/status/2122576794297471063)
+
+### @AI_DVD6：复刻《持械入宋》——6 个"门外汉"做出的 120 亿播放 AI 短剧
+
+**核心提炼**
+- 复刻对象是《持械入宋》（穿越到北宋、主角手持现代枪械的 AI 短剧），原作团队 6 人、两周交付
+- 拆解与复刻共 4 步：①拆剧本，抓住了"四层身份反差"——现代特种兵，穿越到北宋，身份从现代兵王降级成小卒，然后被逼成"持械的异类"，并由此生成一条可复制的反差公式；②建人物资产库，先生成 10 张人物定妆照；③历史考据：把"北宋开宝三年"考据了 3 遍，把宋代城墙、官职、服饰、武器等信息都整理进提示词里；④用 AI 生成镜头，镜头提示词包含景别、运镜、光影等信息
+- 可直接抄的分镜表提示词：让 AI 以 20 年经验的影视导演兼 AI 短剧编剧身份，把故事梗概拆解为一部 2 分钟竖屏短剧分镜表，要求前 3 秒必须有冲突、中间每 30 秒一个情绪转折、最后 1 个镜头必须留悬念，输出表格含镜号、景别、画面描述、台词、音效、镜头运动
+- 人设资产卡提示词：为以下主角生成一份人物资产卡，含外貌特征、服装细节、随身道具、性格标签、口头禅、行为禁忌，并生成一张正面定妆照提示词，风格为写实电影感、自然光、35mm 镜头
+- 宋史考据提示词：以宋史专家身份核对剧本历史细节，时间设定为北宋开宝三年、地点汴京，涉及城墙、官职、服饰、武器、货币，指出 5 个最容易出错的历史细节并给出修正建议
+- 翻车教训——自查 3 问：①这个构图是不是太满了（AI 对复杂构图的处理能力有限，画面越简单越稳）；②这个动作是不是太复杂了（动作越简单越不容易崩）；③这个镜头是不是可以拆成两个镜头（换机位时直接拆成两个镜头，中间加一个转场）
+- 原片方法提炼为三件"抄走的事"：①先拆剧本，再做分镜——剧本是 1，分镜是 0，没有剧本直接生成视频就是抽卡；②先建人物资产库，再生成视频——人物定妆照是短剧的"地基"；③先做历史考据，再写提示词——考据是短剧的"护城河"
+- 如实说明：与人物构建库 11-17 晚档已收同一帖不同角度——那条取资产库流程实测（两次翻车+第三次拆镜成功、420 积分换 8 秒），本条取剧本/分镜提示词原文与反差公式；Article 全文为浏览器读取
+
+**适用场景**：想复刻爆款短剧、做穿越/历史题材、需要可直接抄的分镜表与考据提示词的人。
+
+**怎么用它搞钱**：按"反差公式+资产库+考据"三件套接爆款复刻代制单；或把考据提示词做成历史题材短剧的差异化卖点。
+
+**来源**：[@AI_DVD6](https://x.com/AI_DVD6/status/2122672539814019530)
+
+### @LBaoheng24070：一个人指挥一支 AI 剧组
+
+**核心提炼**
+- 别把 AI 当工具，当剧组：编剧、导演、摄影、剪辑，每个角色都有对应的 AI 位置；一个人指挥靠的不是全能，而是把每个环节的输入输出都定清楚；提示词就是拍摄脚本
+- 真正决定成片能不能看的不是画面美不美，是连戏稳不稳：同一件衣服、同一个场景、同一张脸，三镜之内不能穿帮；连戏这件事抽卡解决不了，只能靠设定：先定视觉设定，再开拍，每镜的提示词都带上锁定词
+- 作者上周刚用这套思路跑通过一条 60 秒成片，6 镜，字幕逐字取自剧本；流程跑通后，下一条就是复制粘贴的事
+- 成本结构变了：以前拍一条短剧要组一个剧组，现在一个人加几个模型就能开工，成本下来了，试错次数就上去了；但流程跑通不等于片子能看：剧本、节奏、表演三样还是得人来定；AI 解决的是"拍出来"，人解决的是"值不值得看"
+- 建议：想做 AI 短剧的人别先买课，先拿一个 60 秒的故事，按这个流程跑一遍，跑通了再谈别的
+
+**适用场景**：一个人想跑通剧情短片全流程、先验证流程再谈规模的人。
+
+**怎么用它搞钱**：60 秒样片跑通后按"流程复制粘贴"批量接单；或把"输入输出定清楚"的剧组分工表做成接单 SOP。
+
+**来源**：[@LBaoheng24070](https://x.com/LBaoheng24070/status/2122942764329693684)
+
+### @Huahuazo：AI 漫剧 Skills——21 套题材模板，一句创意推到底
+
+**核心提炼**
+- GitHub 开源项目 AI 漫剧 Skills，作者一口气备下 21 套题材模板：玄幻修仙、穿越重生、宫斗宅斗、都市逆袭、悬疑刑侦、总裁甜宠，热门短剧的路数基本都兜住了（README 核验：幻想/古代/现代三类共 21 个题材，各一个 SKILL.md）
+- 只要往里丢一句故事创意，AI 便顺着流程一路推下去：故事企划 → 人物设定 → 分集剧本 → 分镜提示词 → 视频生成提示词 → 发布文案；默认照着 30 集、每集约 4 分钟的竖屏漫剧规格来排布
+- 依赖一个都不用装，Claude Code、WorkBuddy 统统接得上，模板往 DeepSeek 里一复制照样跑得起来
+- 如实说明：它交到手上的只是创作模板与提示词，成片视频不会直接产出；项目 zhanghao123vip/ai-manju-skills 933★ MIT，已入本库 GitHub 表
+
+**适用场景**：做漫剧/短剧自媒体、想按题材模板快速出分集剧本和分镜提示词的人。
+
+**怎么用它搞钱**：按题材模板批量出漫剧分集剧本接代写单；或照 30 集×4 分钟规格做漫剧代制。
+
+**来源**：[@Huahuazo](https://x.com/Huahuazo/status/2123178183159923053)
+
+### @semichenkko：一条提示词出分镜板+分镜表+15 秒剧本
+
+**核心提炼**
+- 一条可直接套用的提示词模板（原文英文）：给 AI 一个一句话创意，让它输出整套制作包——①Canvas：6 帧分镜板，每帧一个方框，含草图描述、机位和发生的事；②Sheet：分镜表，含镜号、时长（秒）、机位、灯光、材质、声音，总时长按公式算出；③Doc：一段 15 秒带时间码的剧本，再加一条短 X 帖文（小写、无 emoji、无 hashtag）；三者之间保持一致
+- 作者验证：给 Univer Agent 一句话，得到整套制作包（storyboard、shot list、script），一次拉取；之后改主意要竖屏、加一个慢动作落地，它重写了全部三个文件，时间仍对得上帧；旧工作流是 3 个标签页
+- 如实说明：原帖为 3D 短视频题材（体素小方块长出小城市），非短剧题材；本条取其"6 帧分镜板+分镜表+15 秒带时间码剧本，三者一致"的提示词结构，可直接套用于分镜/剧本生成
+
+**适用场景**：想一句话同时拿到分镜板、分镜表和带时间码剧本、且三者互相咬合的人。
+
+**怎么用它搞钱**：把"一句话→三件套制作包"做成短视频策划的标准化交付物，按件收费。
+
+**来源**：[@semichenkko](https://x.com/semichenkko/status/2123186893214904504)
+
+### @cangjiang216758：AI 影视/短剧工业化管线 4 步
+
+**核心提炼**
+- 拒绝随机抽卡，主打精准可控
+- 1/ 剧本与分镜结构化：不直接让 AI 瞎写，用成熟的电影叙事骨架拆解情绪曲线，把每场戏直接转化为带景别、运镜、光影指令的结构化分镜表
+- 2/ 3D 预演与空间锚定（Blender + ComfyUI）：纯文生图永远搞不定连续镜头的空间一致性；先在 Blender 里快速搭好极简白模、定好机位和打光，再丢进 ComfyUI 跑 ControlNet（Depth/Normal），透视和机位一步到位
+- 3/ 角色一致性锁死：别指望单靠提示词控脸；针对核心角色直接训专属 LoRA，配合 IP-Adapter 锁死服装与面部特征，确保正反打镜头绝不穿帮
+- 4/ 动态生成与表演控制：静态高精图定调 → 视频模型跑首尾帧衔接 → 局部重绘修手部与口型
+- 结论：以前拍一条特效概念片要烧几十万预算，现在一个人就是一支全建制制片厂
+- 纠正说明：浏览器版只读到第 2 步开头，本条 4 步全文经 fxtwitter API 直读核验补齐
+
+**适用场景**：做连续镜头多、空间一致性要求高的影视/短剧、想从抽卡升级到工业化管线的人。
+
+**怎么用它搞钱**：按 4 步管线接高客单特效概念片/短剧代制单；白模预演+LoRA 锁脸是报价里的技术溢价项。
+
+**来源**：[@cangjiang216758](https://x.com/cangjiang216758/status/2123197309324505488)
+
+### @smith_john69181：小白漫剧六步闭环
+
+**核心提炼**
+- 固定闭环公式：剧本 → 分镜 → 定角色画风 → 生成画面 → 画面动态化 → 配音音效 → 剪辑成片；严格按照这个顺序做，几乎不会返工，新手也能高效出片
+- 第一步搭建骨架：新手先练 20–30 秒超短剧情，易完成、易复盘；不会写剧本直接用大白话向 AI（豆包、DeepSeek）说清题材、人物、核心剧情，生成有铺垫、有冲突、有结尾的完整小故事；分镜拆成独立镜头，每镜只写四要素（画面场景、角色动作、对应台词、持续时长），一句话讲清一个镜头；30 秒漫剧控制在 8–12 个镜头
+- 第二步锁定质感：90% 漫剧翻车是角色变脸、画风混乱；先按人设生成角色三视图（正面、侧面、背面）当定妆图，整理固定人设关键词（发型、五官、穿搭、气质、画风）；后续所有画面生成必须套用同一张参考图、同一套关键词
+- 第三步填充画面：按分镜逐镜生成静态漫画，每次生成绑定固定角色参考+固定画风参数；先静后动：全部静态画面出完、逐一核对构图人物场景细节无问题后，再动态加工，避免后期反复修改浪费时间
+- 第四步赋予动感：静态图导入可灵、即梦等视频工具一键动态化；克制为王：每镜只保留 1 个细微人物动作+1 个基础运镜（眨眼、发丝飘动、轻微推拉），简约的动态效果反而更显高级
+- 第五步注入灵魂：AI 配音（剪映免费配音，音色适配角色，导入台词一键生成，精准匹配镜头时长）；BGM+音效（关键动作、场景切换处加风声、脚步声、特效音）
+- 第六步整合出片：按分镜顺序导入动态片段，对齐配音、调节奏；剪映智能识别字幕，逐句核对修正错别字；免费基础功能足够出优质作品
+- 避坑指南：角色统一是第一核心（先定人设、再生画面，绝不边做边改）；从简起步（首作 10–20 个镜头、短平快剧情，先保证完整出片）；制作顺序不能乱（颠倒步骤只会导致全盘返工）；商用注意版权（选可商用模型和素材）
+- 纠正说明：浏览器版"先做两个连续镜头试试"在 fxtwitter API 直读正文中未见，未采用；其余按 API 全文
+
+**适用场景**：零基础想做 AI 漫剧、怕角色变脸返工的新手，第一条片子的保姆级路线图。
+
+**怎么用它搞钱**：按六步闭环跑通 20–30 秒样片，接漫剧代制单；或把闭环流程做成新手陪跑课。
+
+**来源**：[@smith_john69181](https://x.com/smith_john69181/status/2123215249256112373)
+
 ## 收录标准
 
 - 来源：X 博主实战分享（原帖 / 评论区 / 引用链）及 GitHub 高星项目
 - GitHub 项目条目格式：一句话（解决什么问题 / 适合谁用）+ 一条「怎么用它搞钱」
 - X 实战帖条目格式：核心提炼（3-8 条要点，不点链接也能拿走干货）+ 适用场景一句话 + 一条「怎么用它搞钱」+ 原帖链接只做署名出处
-- Star 数为 2026-11-06 经 GitHub API 核验；持续收录中
+- Star 数为 2026-11-19 经 GitHub API 核验；持续收录中
 - 去重：同一项目只收录一次，不堆 raw 链接
 
 ## 相关分类
@@ -1112,3 +1271,4 @@
 - 2026-11-06：早档搜集：X 新增 15 条实战帖（@awe0_io Toonflow vs short-video-factory 选型对照/@_YasirNFT 30 秒黑色喜剧模板/@charlieonai 6 工具盘点+评论区选型三原则/@XunDavid80270 即梦短剧工作室 7 步/@eternityspring H3 Frame Break Effect/@TraceJie 白萝卜重构流水线/@second_bassoon 台词五法/@aiwarts DreamScript 剧本方法论/@RayYuying 编剧 skill 反向教训/@BDFrankHoubre 静帧验运镜/@MustafaMakesAds 剧情广告三点/@wuzhu_ H3 OC 分镜骨架/@termix_ai Montage Studio Agent 分包/@binghe 分镜头路由思维/@xitang_ai 控戏 vs 控成本）、GitHub 新增 0 个项目；全库 star 经 API 核验更新（shuohao-skills 6,080、drama-skills 3,825、OpenMontage 77,160、awesome-short-drama-skills 1,852）；15 帖正文与时间戳均经 fxtwitter API 逐条直读核验，浏览器报告时间全部早 1 小时已按 API 时间戳纠正，首轮转述有误三处（@eternityspring Subject 定义、@charlieonai 两条评论结尾、@wuzhu_ 自回复末尾）已由浏览器逐字抄录更正；排除 3 条（@talesbytim 有声剧类目不合、@wy_ones 三点与库内重复且过薄、@Manorgw huobao-drama 与流水线库同仓重合）
 - 2026-11-06：午档搜集：X 新增 6 条实战帖（@Cara_Mosquito 引用 @EianLu 补充三条：视觉锚点先打磨/会跟 AI 说不/免费模型练手 + 透视光源镜头衔接质检；@daodao166888 What if ×2 加倍科学：14 天涨粉 7 万+、3900 万播放 + 5 套提示词；@TSCWriters 角色弧光 ≠ 角色发展；@JerelVelarde Claude 做病毒式 AI 发布视频六步法：5 条片 340 万+曝光；@ahab_developer 爆款 AIGC 短剧剧本 12 条写作原则：拆《反相之地》+《我的妹妹不可爱》；@xIrissy 漫画页即分镜：PixAI 六步出 60 秒漫剧）、GitHub 新增 1 个项目（aronhy/marketing-skill-hub 170★：ugc-video 模块出可拍脚本，技能文档 CC BY-NC 4.0、辅助脚本 MIT）；6 帖正文与时间戳均经 fxtwitter API 逐条直读核验（10:07／13:16／13:17／14:25／14:47／14:52／15:01 北京）；浏览器报告时间与 API 一致（本次无 1 小时偏差）；浏览器报告转述有误两处已按原文纠正（@ahab_developer 的 12 条原则与两部剧要点以 Article 原文四问分组为准，浏览器版 12 条与原文不符作废；@daodao166888 的 5 套提示词以 13:17 帖原文为准，浏览器版 8 镜 x1–x128 模板与原文不符作废，角色裤子为灰色非黑色，"三类选题/光跑 4 年半"等细节正文无此说法不采用）；去重/排除：@suwanqing2005 六项目盘点与库内 @bkdgiffug 条目同单重合；@KOF97AI rea-video 与拉片库 11-05 已收同仓重合；@Domingo_gou Montage 托管分析与本库早档 @termix_ai 条目同题、无新剧本方法；@ganfanren_ai SeeCut（YeJe-cpu/SeeCut 434★ PolyForm Noncommercial）与 @Jasper_Jia543 剪口播十步、@ellypromtstar 8 免费工具链均为剪辑/制作类目，记剪辑日信号；@Manorgw Seedance 2.0 Skill OS（Emily2040/seedance-2.0 8,042★ MIT）为导演/提示词向，记信号；@qiaohl1225 FLORA 故事板为产品视觉付费 MCP、@Cara_Mosquito 14:30 模型选型对照为选型类目、@energy_0x 过薄、@Jakartalk 完整提示词需私信索取，均不收记信号；@xIrissy 帖内"付费合作"标注在 API 文本中未见，不采用该说法
 - 2026-11-06：晚档搜集：X 新增 15 条实战帖（@likebookmark 五段 Agent 链：角色卡→剧本→提示词→分段生成→剪辑；@klarkxy 0 抽卡漫剧指北：白模—设定—真首帧—H3 生成；@bozhou_ai @EianLu 长文八步提炼 + 评论区接单验收补充；@HeyWildAbe Claude Code + Codex + Seedance 全文版：四确认节点 + 三查顺序 + 导演任务书；@KOF97AI 动效预演 Previs 三步：Blender 走位→H3 粗模→Seedance 2.5 精渲；@daodao166888 复古卡通狼"日常习惯操控揭秘"提示词串：角色设定 + 选题公式 + 30–45 秒单集脚本 + 固定生图提示词；@AomyYing Codex+hypit 零抽卡八步：审剧本 5 检查点 + 逐镜样帧拦截 80% 失败 + Compshare 约 0.08 元/秒；@whoisbaifu 独立开发者产品宣传片教程：Codex 取真实 UI + Opus 5.5 审美 + Seedance 2.5 底片 + Remotion 合成；@KOF97AI MiniMax-H3-Prompt-Rewriter：一句大白话扩写电影级分镜（HF 模型）；@viest_w 两只猫查私房钱 43 秒案例：Claude 导演 + Codex 关键帧 + 5 轮审片；@Zizaiaiai 7 大影视基础：景别/机位/运镜/构图/光影/节奏/转场逐项填词；@Smartpigai AI 短剧工作流：16 章 + 32 套模板；@TheAIColony 五段式提示词模板：ROLE/CONTEXT/TASK/CONSTRAINTS/OUTPUT；@charlieonai 一集短剧拆 7 站：每站单独返工；@HeyBlessingek 六镜分镜产品一致性五项检查）、GitHub 新增 1 个项目（howznguyen/shorts-kit 94★ MIT：编程 Agent + Remotion 竖屏短视频一条龙，经 @GitTrend0x 19:30 帖引入；同帖 rea-video 已在拉片库 11-05 晚档收录，其余三 skill 非编剧类目不收）；17 帖正文与时间戳均经 fxtwitter API 逐条直读核验（15:12／17:23／17:58／18:05／18:11／18:33／18:38／19:19／19:33／19:43／20:23／20:28／20:30／21:03／21:05 北京，另核 @daodao166888 同串首帖 18:32 案例数据与 @TheAIColony 同串上帖 20:30）；浏览器报告时间与 API 一致（本次无 1 小时偏差）；浏览器报告转述有误三处已按原文纠正（@Smartpigai"11 个阶段"与"爆款 5 条件"在 Article 原文中未找到对应表述，本条以 API 直读的 16 章 + 32 模板结构为准，模板编号 01–32 已核验；@HeyWildAbe 导演任务书提示词浏览器版称截断，API 直读为全文，本条按全文结构收录；@TheAIColony 串内补充 logo reveal 等形态与"avoid generic AI look"技巧在 API 返回的本帖及上帖正文中未见，未采用）；@bozhou_ai 评论区两条补充与 @whoisbaifu/@Zizaiaiai Article 后半部分细节为浏览器全文读取，已注明；去重/排除：@Manorgw 三项目帖（moyin-creator 4,825★ AGPL-3.0、waoowaoo 14,797★、huobao-drama 17,060★，GitHub API 实测）三仓均已在库内 @bkdgiffug 条目，不重复计；三帖同源 @EianLu 11-05 长文（@bozhou_ai 八步提炼／@HeyWildAbe 全文版／@likebookmark 五段链）各有独立增量角度，分别计入并注明同源；@charlieonai OpenMontage 为 charliewwdev fork（20★，GitHub API 实测），库内已收 calesthio/OpenMontage 77,160★，本条只取 7 站方法；GitHub 侧本档不做（一天一次、早档已做）；指针推进→创意总监（优先队列第三轮第 1 天）；本轮第 13 天，非汇报日
+- 2026-11-19：早档搜集：X 新增 9 条实战帖（@AI_DVD6 母指令 8 步/@0xcwy 33 Skill 链路盘点/@leixing0309 4090 导演包/@AI_DVD6 持械入宋复刻分镜表提示词/@LBaoheng24070 一人 AI 剧组连戏/@Huahuazo 21 套漫剧模板/@semichenkko 一句话三件套提示词/@cangjiang216758 工业化管线 4 步/@smith_john69181 小白漫剧六步闭环）、GitHub 新增 8 个项目（liangdabiao/seedance-storyboard-generator-realman 182★、xixihhhh/ai-short-drama-skill 105★ MIT、YvonneMovingon/short-drama-skills 105★ MIT、muxia0396/novel-to-ai-short-drama-skill 35★ MIT、zhanghao123vip/ai-manju-skills 933★ MIT、LuoJiangYong/muse-video-skill 107★ MIT、masonmosen/muse-video-prompt-skill 57★ MIT、apimodels/muse-video-prompts 90★ CC-BY-4.0）；全库 star 经 API 核验更新；12 帖作者与时间戳均经 fxtwitter API 逐条直读核验，其中 9 条短帖正文全文经 API 直读核验，3 篇 Article（@AI_DVD6 母指令/@leixing0309/@AI_DVD6 持械入宋）正文为浏览器全文读取（fxtwitter 文章端点 404）；浏览器报告多处偏差已按 API 原文纠正（见 @0xcwy/@cangjiang216758/@smith_john69181 条目内）；去重/排除：@XiaoFei70241 11-17 21:06 极简工具箱已在人物构建库 11-17 晚档收录、@Formulasearch 11-18 11:23 编导思维已在拉片库 11-18 晚档收录，跨库不重复计；@Jack1472004 11-19 08:56 帖为 4 仓清单，其中 3 仓入 GitHub 表、dichenxiang/muse-video-prompt 19★ 未达 20★ 线暂缓；@AI_DVD6 持械入宋与人物构建库同帖不同角度（本条取剧本/分镜提示词原文），已注明；15 组关键词×Latest＋作者时间线组合搜索抽查，登录态正常、全程只读无互动、未遇真人验证；未查完如实注明：关键词组一般只翻首屏至第 2 屏、@AI_DVD6 母指令原文在配图中未逐字复录、Chai 长帖配图后 3 张清单未逐一抄录、浏览器报告所列 10 条未核实线索未计入、11-07 至 11-15 之间仍可能有漏网之帖；指针未推进（21:00 档负责）；本轮第 13 天，非汇报日
